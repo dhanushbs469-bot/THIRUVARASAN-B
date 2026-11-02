@@ -2,110 +2,37 @@
 My Personal Developer Portfolio
 <div align="center">
 
-# 👋 HI, I'M THIRUVARASAN B
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=THIRUVARASAN%20B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20NLC%20India%20Limited&descSize=16&descAlignY=55"/>
 
-### Computer Science Graduate | NLC India Limited
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer+%F0%9F%90%8D;SQL+%7C+Cloud+Computing+%E2%98%81%EF%B8%8F;Technology+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A99D&center=true&vCenter=true&width=600&lines=Python+Programming;SQL+%7C+Cloud+Computing;GitHub+%7C+MS+Excel;Always+Learning+New+Technologies" />
-
-</div>
-
----
-
-## 👨‍💻 ABOUT ME
-
-- 🎓 Computer Science Graduate
-- 💼 Working at NLC India Limited
-- 🐍 Interested in Python Programming
-- ☁️ Exploring Cloud Computing
-- 🗄️ Knowledge of SQL
-- 📊 Interested in data management and analysis
-- 🚀 Passionate about continuous learning
-
----
-
-## 🛠️ TECHNICAL SKILLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,github" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-
-</div>
-
----
-
-## 💼 PROFESSIONAL INTERESTS
-
-- Software Development
-- Python Programming
-- SQL & Database Management
-- Cloud Technologies
-- Automation
-- Enterprise Applications
-
----
-
-## 🚀 MY PROJECT
-
-### Deepfake Video Detection
-
-A deep-learning-based project focused on detecting manipulated
-and deepfake videos.
-
-**Technologies:** Python | CNN | ResNet | LSTM
-
----
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushbs469-bot&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushbs469-bot&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhanushbs469-bot&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🤝 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<br>
 
 <a href="https://github.com/dhanushbs469-bot">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=dhanushbs469-bot&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/dhanushbs469-bot?tab=followers">
+<img src="https://img.shields.io/github/followers/dhanushbs469-bot?style=for-the-badge&color=purple&label=FOLLOWERS"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 01. ABOUT ME
 
-### ⭐ KEEP LEARNING | KEEP BUILDING | KEEP GROWING
+```yaml
+Name: Thiruvarasan B
+Education: B.Sc Computer Science
+Organization: NLC India Limited
+Interests:
+  - Python Programming
+  - SQL & Database Management
+  - Cloud Computing
+  - Technology & Automation
 
-<img src="https://komarev.com/ghpvc/?username=dhanushbs469-bot&label=PROFILE+VIEWS&color=blue&style=flat" />
+Goal: Continuous Learning and Professional Growth
 
-</div>
