@@ -1,36 +1,14 @@
 # Thiruvarasan-B
 My Personal Developer Portfolio
 <!-- =============== ANIMATED HEADER =============== -->
-
 <div align="center">
 
-<img width="100%" height="250"
-src="https://capsule-render.vercel.app/api?type=venom&height=250&text=THIRUVARASAN%20B&fontSize=55&color=0:090979,50:00D4FF,100:7B2FF7&stroke=00D4FF&strokeWidth=2&fontColor=FFFFFF&animation=fadeIn&desc=TECH%20ENTHUSIAST%20%7C%20PYTHON%20%7C%20CLOUD&descSize=18&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050A30,50:0077FF,100:00E5FF&text=THIRUVARASAN%20B&fontSize=45&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Computer%20Science%20Graduate%20%7C%20NLC%20India%20Limited&descAlignY=60&descSize=16"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=HELLO+WORLD!;I'M+THIRUVARASAN+B;PYTHON+PROGRAMMING+%F0%9F%90%8D;SQL+%7C+CLOUD+COMPUTING+%E2%98%81;BUILDING+MY+TECHNICAL+JOURNEY+%F0%9F%9A%80"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=dhanushbs469-bot&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
-
-<img src="https://img.shields.io/github/followers/dhanushbs469-bot?style=for-the-badge&color=7B2FF7&logo=github&label=FOLLOWERS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Python+Programming;SQL+%7C+Database+Management;Cloud+Computing;Learning+%26+Building+Every+Day;Welcome+to+my+GitHub+Profile!" />
 
 </div>
 
----
-
-<!-- =============== PROFILE =============== -->
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  ABOUT ME
-</h1>
-
-<table>
-<tr>
-<td width="60%">
 
 ### 👨‍💻 Who Am I?
 
