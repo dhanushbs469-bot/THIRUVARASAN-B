@@ -40,39 +40,40 @@ src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 ---
 
-<!-- =============== TECHNICAL SKILLS =============== -->
-
-<h1 align="center">⚡ TECHNICAL SKILL MATRIX</h1>
+<h2 align="center">
+  ⚡ TECHNICAL SKILLS ⚡
+</h2>
 
 <div align="center">
 
-### PROGRAMMING & DATABASE
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=MY+TECH+STACK;TOOLS+%26+TECHNOLOGIES;CONTINUOUS+LEARNING+MODE+ON" />
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+<br>
 
-<br><br>
+### 💻 Programming & Database
 
-### DEVELOPMENT & VERSION CONTROL
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode&theme=dark" />
-
-<br><br>
-
-### CLOUD TECHNOLOGY
-
-<img src="https://img.shields.io/badge/CLOUD%20COMPUTING-00A6FF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
 
 <br><br>
 
-### PRODUCTIVITY TOOLS
+### ☁️ Cloud & Development Tools
 
-<img src="https://img.shields.io/badge/MS%20EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=icloud&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/MS%20WORD-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<br><br>
+
+### 📊 Productivity & Office Tools
+
+<img src="https://img.shields.io/badge/MS_Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF99"/>
+<img src="https://img.shields.io/badge/MS_Word-0D1117?style=for-the-badge&logo=microsoftword&logoColor=00A2FF"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:0077FF,100:8A2BE2&section=footer"/>
 
 </div>
-
----
 
 <!-- =============== PROFESSIONAL JOURNEY =============== -->
 
