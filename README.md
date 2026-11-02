@@ -1,238 +1,146 @@
 # Thiruvarasan-B
 My Personal Developer Portfolio
-<!-- =============== ANIMATED HEADER =============== -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050A30,50:0077FF,100:00E5FF&text=THIRUVARASAN%20B&fontSize=45&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Computer%20Science%20Graduate%20%7C%20NLC%20India%20Limited&descAlignY=60&descSize=16"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Python+Programming;SQL+%7C+Database+Management;Cloud+Computing;Learning+%26+Building+Every+Day;Welcome+to+my+GitHub+Profile!" />
-
-</div>
-
-
-### 👨‍💻 Who Am I?
-
-I'm **Thiruvarasan B**, a Computer Science graduate currently working at **NLC India Limited**.
-
-I'm passionate about technology, programming, cloud computing and exploring innovative solutions.
-
-My goal is to continuously develop my technical knowledge and build meaningful projects.
-
-**My Focus Areas**
-
-- 🐍 Python Programming
-- 🗄️ SQL & Database Management
-- ☁️ Cloud Computing
-- 💻 Software Development
-- 🤖 Automation & Technology
-- 📊 Data Management
-
-</td>
-
-<td width="40%" align="center">
-
-<img width="250"
-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">
-  ⚡ TECHNICAL SKILLS ⚡
-</h2>
+<!-- ANIMATED HEADER -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=MY+TECH+STACK;TOOLS+%26+TECHNOLOGIES;CONTINUOUS+LEARNING+MODE+ON" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00d4ff&height=220&section=header&text=THIRUVARASAN%20B&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=16"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=700&color=00D4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer+%F0%9F%90%8D;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 
 <br>
 
-### 💻 Programming & Database
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
-
-<br><br>
-
-### ☁️ Cloud & Development Tools
-
-<img src="https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=icloud&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
-<br><br>
-
-### 📊 Productivity & Office Tools
-
-<img src="https://img.shields.io/badge/MS_Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF99"/>
-<img src="https://img.shields.io/badge/MS_Word-0D1117?style=for-the-badge&logo=microsoftword&logoColor=00A2FF"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:0077FF,100:8A2BE2&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=dhanushbs469-bot&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
-
-<!-- =============== PROFESSIONAL JOURNEY =============== -->
-
-<h1 align="center">💼 PROFESSIONAL JOURNEY</h1>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ORGANIZATION-NLC%20INDIA%20LIMITED-0057A8?style=for-the-badge"/>
-
-</div>
-
-| Category | Details |
-|---|---|
-| Education | B.Sc Computer Science |
-| Organization | NLC India Limited |
-| Technical Interest | Python & SQL |
-| Technology | Cloud Computing |
-| Development | GitHub |
 
 ---
 
-<!-- =============== LEARNING ROADMAP =============== -->
+<!-- ABOUT ME -->
 
-<h1 align="center">🎯 CURRENT LEARNING ROADMAP</h1>
+<h2 align="center">⚡ ABOUT ME</h2>
 
-<div align="center">
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=LEVEL+UP+YOUR+SKILLS;LEARN+SOMETHING+NEW+EVERY+DAY;CONSISTENCY+IS+THE+KEY+TO+SUCCESS"/>
+- 🎓 B.Sc Computer Science Graduate
+- 🏢 Working at NLC India Limited
+- 💻 Interested in Programming and Technology
+- ☁️ Exploring Cloud Computing
+- 🐍 Learning Python Programming
+- 📊 Interested in Data and Database Management
+- 🚀 Passionate about learning new technologies
 
-</div>
-
-<table align="center">
-<tr>
-<th>Technology</th>
-<th>Learning Objective</th>
-<th>Status</th>
-</tr>
-
-<tr>
-<td>🐍 Python</td>
-<td>Advanced Programming</td>
-<td>Learning</td>
-</tr>
-
-<tr>
-<td>🗄️ SQL</td>
-<td>Database Management</td>
-<td>Practicing</td>
-</tr>
-
-<tr>
-<td>☁️ Cloud</td>
-<td>Cloud Fundamentals</td>
-<td>Exploring</td>
-</tr>
-
-<tr>
-<td>🐙 GitHub</td>
-<td>Version Control</td>
-<td>Practicing</td>
-</tr>
-
-<tr>
-<td>📊 Excel</td>
-<td>Data Analysis</td>
-<td>Improving</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-<!-- =============== PROJECT SHOWCASE =============== -->
+<!-- TECHNICAL SKILLS -->
 
-<h1 align="center">🚀 PROJECT SHOWCASE</h1>
+<h2 align="center">⚡ TECHNICAL SKILLS</h2>
 
 <div align="center">
 
-<a href="https://github.com/dhanushbs469-bot">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=1800&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=MY+TECHNOLOGY+STACK;TOOLS+AND+TECHNOLOGIES;LEARN+%7C+BUILD+%7C+GROW" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cloud-Computing-00AEEF?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Version_Control-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MS_Excel-Productivity-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Word-Productivity-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- PROJECT -->
+
+<h2 align="center">🔥 FEATURED PROJECT</h2>
+
+<div align="center">
+
+<a href="https://github.com/dhanushbs469-bot/Dhanush-B-S">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushbs469-bot&repo=Dhanush-B-S&theme=tokyonight&hide_border=true"/>
 
 </a>
 
+### 🧠 Deepfake Video Detection
+
+A computer vision project focused on detecting manipulated videos using deep learning techniques.
+
+**Technologies:** Python | CNN | ResNet | LSTM
+
 </div>
-
-### 🔬 Deepfake Video Detection
-
-A deep-learning-based project designed to identify manipulated videos and detect deepfake content.
-
-**Technology Stack**
-
-`Python` `CNN` `ResNet50` `LSTM`
 
 ---
 
-<!-- =============== GITHUB ANALYTICS =============== -->
+<!-- GITHUB STATISTICS -->
 
-<h1 align="center">📊 GITHUB ANALYTICS DASHBOARD</h1>
+<h2 align="center">📊 GITHUB INSIGHTS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhanushbs469-bot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhanushbs469-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushbs469-bot&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=dhanushbs469-bot&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushbs469-bot&theme=tokyo-night&hide_border=true&area=true&custom_title=MY%20CODING%20ACTIVITY"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=dhanushbs469-bot&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- =============== CONTRIBUTION SNAKE =============== -->
+<!-- ACTIVITY GRAPH -->
 
-<h1 align="center">🐍 CONTRIBUTION SNAKE</h1>
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dhanushbs469-bot/dhanushbs469-bot/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushbs469-bot&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-<!-- =============== CONNECT =============== -->
+<!-- CONNECT -->
 
-<h1 align="center">🌐 CONNECT WITH ME</h1>
+<h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/thiruvarasan-b-s-a99877259/">
-
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dhanushbs469-bot">
-
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+AND+COLLABORATE!;THANKS+FOR+VISITING+MY+PROFILE!"/>
 
 </div>
 
-<!-- =============== FOOTER =============== -->
+---
+
+<!-- ANIMATED FOOTER -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=150&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=700&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Keep+Growing+%E2%9C%A8" />
 
-### ⚡ THINK • CODE • INNOVATE • REPEAT ⚡
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:004e92,100:000428&height=120&section=footer&animation=twinkling"/>
 
 </div>
